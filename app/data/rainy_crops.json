@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Rice",
+      "temperatureRange": [25, 35], 
+      "rainfallRange": [100, 125],  
+      "humidityRange": [85, 90]   
+    },
+    {
+      "name": "Soybeans",
+      "temperatureRange": [20, 30], 
+      "rainfallRange": [500, 1250],  
+      "humidityRange": [13, 18]   
+    },
+    {
+      "name": "Mung_beans",
+      "temperatureRange": [28, 35], 
+      "rainfallRange": [400, 550],  
+      "humidityRange": [50, 90]   
+    },
+    {
+      "name": "Black_Gram",
+      "temperatureRange": [20, 35], 
+      "rainfallRange": [600, 1000],  
+      "humidityRange": [60, 90]   
+    },
+    {
+      "name": "Okra",
+      "temperatureRange": [24, 27], 
+      "rainfallRange": [100, 250],  
+      "humidityRange": [65, 75]   
+    },
+    {
+      "name": "Jute",
+      "temperatureRange": [20, 40], 
+      "rainfallRange": [1000, 1500],  
+      "humidityRange": [70, 90]   
+    },
+    {
+      "name": "Sugarcane",
+      "temperatureRange": [25, 35], 
+      "rainfallRange": [1100, 1500],  
+      "humidityRange": [40, 80]   
+    },
+    {
+      "name": "Papaya",
+      "temperatureRange": [35, 38], 
+      "rainfallRange": [1200, 1500],  
+      "humidityRange": [60, 80]   
+    },
+    {
+      "name": "Mustard",
+      "temperatureRange": [15, 30], 
+      "rainfallRange": [350, 450],  
+      "humidityRange": [64, 83]   
+    },
+    {
+      "name": "Pumpkin",
+      "temperatureRange": [21, 30], 
+      "rainfallRange": [100, 300],  
+      "humidityRange": [50, 70]   
+    }
+  ]
+  

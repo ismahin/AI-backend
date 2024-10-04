@@ -1,0 +1,23 @@
+{
+    "Apple Scab": [
+        "Remove and destroy fallen leaves.",
+        "Apply sulfur sprays or other recommended fungicides."
+    ],
+    "Apple Black Rot": [
+        "Prune out dead or infected branches.",
+        "Use protective fungicides during bloom."
+    ],
+    "Grape Black Measles": [
+        "Implement good vineyard sanitation practices.",
+        "Apply appropriate fungicides early in the season."
+    ],
+    "Tomato Early Blight": [
+        "Rotate crops regularly.",
+        "Use disease-free seed and resistant varieties.",
+        "Apply fungicides when necessary."
+    ],
+    "Healthy": [
+        "Your plant appears to be healthy!",
+        "Continue regular care and monitoring."
+    ]
+}

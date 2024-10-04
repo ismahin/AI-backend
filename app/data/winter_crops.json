@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Beet",
+      "temperatureRange": [20, 38], 
+      "rainfallRange": [450, 600],  
+      "humidityRange": [95, 100]   
+    },
+    {
+      "name": "Broccoli",
+      "temperatureRange": [15, 21], 
+      "rainfallRange": [1200, 1350],  
+      "humidityRange": [95, 100]   
+    },
+    {
+      "name": "Green_Onion",
+      "temperatureRange": [13, 24], 
+      "rainfallRange": [350, 550],  
+      "humidityRange": [90, 98]   
+    },
+    {
+      "name": "Cabbage",
+      "temperatureRange": [20, 38], 
+      "rainfallRange": [300, 500],  
+      "humidityRange": [85, 95]   
+    },
+    {
+      "name": "Cauliflower",
+      "temperatureRange": [23, 35], 
+      "rainfallRange": [250, 350],  
+      "humidityRange": [85, 95]   
+    },
+    {
+      "name": "Collard",
+      "temperatureRange": [16, 21], 
+      "rainfallRange": [150, 225],  
+      "humidityRange": [95, 100]   
+    },
+    {
+      "name": "Leafy_Lettuce",
+      "temperatureRange": [15, 18], 
+      "rainfallRange": [500, 1800],  
+      "humidityRange": [70, 80]   
+    },
+    {
+      "name": "Radish",
+      "temperatureRange": [10, 18], 
+      "rainfallRange": [800, 1000],  
+      "humidityRange": [95, 100]   
+    },
+    {
+      "name": "Turnip",
+      "temperatureRange": [15, 20], 
+      "rainfallRange": [900, 1400],  
+      "humidityRange": [90, 95]   
+    },
+    {
+      "name": "Lily_Leek",
+      "temperatureRange": [20, 35], 
+      "rainfallRange": [500, 1000],  
+      "humidityRange": [64, 86]   
+    }
+  ]
+  

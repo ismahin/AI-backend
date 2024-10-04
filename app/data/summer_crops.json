@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Potato",
+      "temperatureRange": [10, 25],
+      "rainfallRange": [300, 500],
+      "humidityRange": [90, 95]
+    },
+    {
+      "name": "Corn",
+      "temperatureRange": [15, 30],
+      "rainfallRange": [500, 800],
+      "humidityRange": [50, 80]
+    },
+    {
+      "name": "Wheat",
+      "temperatureRange": [12, 25],
+      "rainfallRange": [450, 650],
+      "humidityRange": [50, 60]
+    },
+    {
+      "name": "Tomato",
+      "temperatureRange": [17, 27],
+      "rainfallRange": [400, 600],
+      "humidityRange": [65, 85]
+    },
+    {
+      "name": "Cucumber",
+      "temperatureRange": [15, 35],
+      "rainfallRange": [200, 300],
+      "humidityRange": [60, 70]
+    },
+    {
+      "name": "Eggplant",
+      "temperatureRange": [21, 35],
+      "rainfallRange": [91, 120],
+      "humidityRange": [70, 85]
+    },
+    {
+      "name": "Bell_Pepper",
+      "temperatureRange": [21, 29],
+      "rainfallRange": [500, 720],
+      "humidityRange": [90, 95]
+    },
+    {
+      "name": "Green_Bean",
+      "temperatureRange": [15, 27],
+      "rainfallRange": [100, 300],
+      "humidityRange": [40, 50]
+    },
+    {
+      "name": "Watermelon",
+      "temperatureRange": [21, 30],
+      "rainfallRange": [500, 720],
+      "humidityRange": [60, 80]
+    },
+    {
+      "name": "Carrot",
+      "temperatureRange": [10, 25],
+      "rainfallRange": [350, 500],
+      "humidityRange": [60, 80]
+    }
+  ]
+  
